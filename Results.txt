@@ -1,0 +1,91 @@
+1.txt
+6;Optimal Design of new Hospitals: A Computational Workflow for Stacking, Zoning, and Routing
+266;Multi-objective unequal area pod-structured healthcare facility layout problem with daylight requirements
+271;A Simulation-Optimisation approach for hospital beds allocation
+273;Green building envelope designs in different climate and seismic zones: Multi-objective ANN-based genetic algorithm
+
+10.txt
+5;Two Generative Design Methods of Hospital Operating Department Layouts Based on Healthcare Systematic Layout Planning and Generative Adversarial Network
+
+11.txt
+Nada encontrado
+
+12.txt
+5;Two Generative Design Methods of Hospital Operating Department Layouts Based on Healthcare Systematic Layout Planning and Generative Adversarial Network
+265;Optimizing Spatial Adjacency in Hospital Master Planning
+
+13.txt
+Nada encontrado
+
+14.txt
+Nada encontrado
+
+15.txt
+5;Two Generative Design Methods of Hospital Operating Department Layouts Based on Healthcare Systematic Layout Planning and Generative Adversarial Network
+11;DAYLIGHTING IN HOSPITAL PATIENT ROOMS: PARAMETRIC WORKFLOW AND GENETIC ALGORITHMS FOR AN OPTIMUM FAÇADE DESIGN
+74;An Assisted Workflow for the Early Design of Nearly Zero Emission Healthcare Buildings
+171;Optimization of Patient Guidance Path Based on Improved Genetic Algorithm
+209;Parametric-Based Multi-Objective Optimization Workflow: Daylight and Energy Performance Study of Hospital Building in Algeria
+257;Structural Design Optimization of Flat Slab Hospital Buildings Using Genetic Algorithms
+261;Human resources optimization in hospital emergency using the genetic algorithm approach
+266;Multi-objective unequal area pod-structured healthcare facility layout problem with daylight requirements
+269;Two-dimensional CNN-based distinction of human emotions from EEG channels selected by multi-objective evolutionary algorithm
+270;Smart Healthcare Using Evolutionary Algorithm
+271;A Simulation-Optimisation approach for hospital beds allocation
+272;Design of rectangular façade modules through computational intelligence
+273;Green building envelope designs in different climate and seismic zones: Multi-objective ANN-based genetic algorithm
+276;Multi-Objective skylight optimization for a healthcare facility foyer space
+279;An NSGA-II Algorithm with Adaptive Local Search for a New Double-Row Model Solution to a Multi-Floor Hospital Facility Layout Problem
+283;Dynamic Layout Design Optimization to Improve Patient Flow in Outpatient Clinics Using Genetic Algorithms
+
+2.txt
+6;Optimal Design of new Hospitals: A Computational Workflow for Stacking, Zoning, and Routing
+266;Multi-objective unequal area pod-structured healthcare facility layout problem with daylight requirements
+271;A Simulation-Optimisation approach for hospital beds allocation
+273;Green building envelope designs in different climate and seismic zones: Multi-objective ANN-based genetic algorithm
+
+3.txt
+6;Optimal Design of new Hospitals: A Computational Workflow for Stacking, Zoning, and Routing
+74;An Assisted Workflow for the Early Design of Nearly Zero Emission Healthcare Buildings
+261;Human resources optimization in hospital emergency using the genetic algorithm approach
+266;Multi-objective unequal area pod-structured healthcare facility layout problem with daylight requirements
+269;Two-dimensional CNN-based distinction of human emotions from EEG channels selected by multi-objective evolutionary algorithm
+271;A Simulation-Optimisation approach for hospital beds allocation
+273;Green building envelope designs in different climate and seismic zones: Multi-objective ANN-based genetic algorithm
+276;Multi-Objective skylight optimization for a healthcare facility foyer space
+279;An NSGA-II Algorithm with Adaptive Local Search for a New Double-Row Model Solution to a Multi-Floor Hospital Facility Layout Problem
+283;Dynamic Layout Design Optimization to Improve Patient Flow in Outpatient Clinics Using Genetic Algorithms
+
+4.txt
+271;A Simulation-Optimisation approach for hospital beds allocation
+
+5(alterado).txt
+171;Optimization of Patient Guidance Path Based on Improved Genetic Algorithm
+
+5.txt
+171;Optimization of Patient Guidance Path Based on Improved Genetic Algorithm
+
+6.txt
+74;An Assisted Workflow for the Early Design of Nearly Zero Emission Healthcare Buildings
+209;Parametric-Based Multi-Objective Optimization Workflow: Daylight and Energy Performance Study of Hospital Building in Algeria
+283;Dynamic Layout Design Optimization to Improve Patient Flow in Outpatient Clinics Using Genetic Algorithms
+
+7.txt
+74;An Assisted Workflow for the Early Design of Nearly Zero Emission Healthcare Buildings
+209;Parametric-Based Multi-Objective Optimization Workflow: Daylight and Energy Performance Study of Hospital Building in Algeria
+283;Dynamic Layout Design Optimization to Improve Patient Flow in Outpatient Clinics Using Genetic Algorithms
+
+8.txt
+82;Research on Optimization of Climate Responsive Indoor Space Design in Residential Buildings
+257;Structural Design Optimization of Flat Slab Hospital Buildings Using Genetic Algorithms
+279;An NSGA-II Algorithm with Adaptive Local Search for a New Double-Row Model Solution to a Multi-Floor Hospital Facility Layout Problem
+283;Dynamic Layout Design Optimization to Improve Patient Flow in Outpatient Clinics Using Genetic Algorithms
+
+9(alterado).txt
+172;Self-Organising Floor Plans in Care Homes
+257;Structural Design Optimization of Flat Slab Hospital Buildings Using Genetic Algorithms
+283;Dynamic Layout Design Optimization to Improve Patient Flow in Outpatient Clinics Using Genetic Algorithms
+
+9.txt
+257;Structural Design Optimization of Flat Slab Hospital Buildings Using Genetic Algorithms
+283;Dynamic Layout Design Optimization to Improve Patient Flow in Outpatient Clinics Using Genetic Algorithms
